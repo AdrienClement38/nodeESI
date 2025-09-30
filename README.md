@@ -5,7 +5,8 @@
 - Adrien Clement
 - Nicolas Massai
 - Abdelghani Hamaz
-- Yassin Ait Mensour
+- Yassin Ait Mansour
+- Lika Lobodzinskaya
 
 ## Exercices
 
