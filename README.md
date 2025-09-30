@@ -1,19 +1,11 @@
 # Exercices docker
 
 ## Membres du groupe 
-
-<<<<<<< HEAD
-- Adrien
-- Nicolas
-- Abdelghani
-- Yassin
-- Lika
-=======
+- Lika Lobodzinskaya
 - Adrien Clement
 - Nicolas Massai
 - Abdelghani Hamaz
-- Yassin Ait Mensour
->>>>>>> f0c6f7db4a1657612cd46e3ebc160b7031031fa9
+- Yassin Ait Mansour
 
 ## Exercices
 
