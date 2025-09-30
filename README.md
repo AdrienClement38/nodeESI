@@ -1,19 +1,11 @@
 # Exercices docker
 
 ## Membres du groupe 
-
-<<<<<<< HEAD
-- Adrien
-- Nicolas
-- Abdelghani
-- Yassin
-- Lika
-=======
+- Lika Lobodzinskaya
 - Adrien Clement
 - Nicolas Massai
 - Abdelghani Hamaz
-- Yassin Ait Mensour
->>>>>>> f0c6f7db4a1657612cd46e3ebc160b7031031fa9
+- Yassin Ait Mansour
 
 ## Exercices
 
@@ -73,3 +65,12 @@ l’API attend DB_HOST=postgres, mais dans le docker-compose.yml le service est 
 Corriger DB_HOST → database.
 
 docker compose logs web
+
+#### Question 5
+
+Version de départ (todo-v1) : environ 1.2 GB
+Version optimisée (todo-v2-optimized) : environ 150 MB
+
+Gain obtenu : réduction de l’ordre de 80 à 90 % (≈ 87,5 % dans notre cas).
+
+Ce résultat est obtenu grâce à l’utilisation d’une image de base légère (node:alpine), d’un multi-stage build, de l’exclusion des fichiers inutiles avec .dockerignore et de l’installation uniquement des dépendances de production.
