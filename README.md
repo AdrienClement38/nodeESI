@@ -2,10 +2,10 @@
 
 ## Membres du groupe 
 
-- Adrien
-- Nicolas
-- Abdelghani
-- Yassin
+- Adrien Clement
+- Nicolas Massai
+- Abdelghani Hamaz
+- Yassin Ait Mensour
 
 ## Exercices
 
